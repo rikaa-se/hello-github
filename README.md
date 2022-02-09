@@ -8,9 +8,14 @@ README.mdはマークダウン(Markdown)記法で記述すること。
 
 ># Gitコマンド
 
-- Gitの設定
+- Gitの初期設定
   - git config --global user.name "ユーザー名"
   - git config --global user.email "メールアドレス"
+
+- Gitの設定
+  - git init
+  - git add "ファイル名"
+  - git commit -m “更新コメント”
 
 
 
